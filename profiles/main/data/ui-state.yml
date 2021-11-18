@@ -1,0 +1,1206 @@
+workbench.hide.welcome: "true"
+workbench.telemetryOptOutShown: "true"
+workbench.sidebar.width: "300"
+workbench.view.extension.sass.state.hidden: '[{"id":"snippets","isHidden":false}]'
+workbench.view.extension.vscode-spotify.state.hidden: '[{"id":"vscode-spotify-playlists","isHidden":false},{"id":"vscode-spotify-tracks","isHidden":false}]'
+workbench.panel.sizeBeforeMaximized: "395"
+workbench.panel.height: "395"
+workbench.view.extension.gitlens.state.hidden: '[{"id":"gitlens.views.repositories:gitlens","isHidden":false},{"id":"gitlens.views.fileHistory:gitlens","isHidden":false},{"id":"gitlens.views.lineHistory:gitlens","isHidden":false},{"id":"gitlens.views.compare:gitlens","isHidden":false},{"id":"gitlens.views.search:gitlens","isHidden":false}]'
+workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
+workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
+workbench.panel.terminal.hidden: '[{"id":"workbench.panel.terminal","isHidden":false}]'
+workbench.view.extension.browser-preview.state.hidden: '[{"id":"targetTree","isHidden":false}]'
+workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
+workbench.view.debug.state.hidden: '[{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"workbench.debug.startView","isHidden":false},{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false}]'
+workbench.view.extension.references-view.state.hidden: '[{"id":"references-view.tree","isHidden":false}]'
+workbench.view.extension.project-manager.state.hidden: '[{"id":"projectsExplorerFavorites","isHidden":false},{"id":"projectsExplorerGit","isHidden":false},{"id":"projectsExplorerSVN","isHidden":false},{"id":"projectsExplorerAny","isHidden":false},{"id":"projectsExplorerMercurial","isHidden":false},{"id":"projectsExplorerVSCode","isHidden":false}]'
+bradgashler.htmltagwrap: '{"lastUpdateSeen":"0.0.7"}'
+workbench.view.extension.bookmarks.state.hidden: '[{"id":"bookmarksExplorer","isHidden":false},{"id":"bookmarksHelpAndFeedback","isHidden":false}]'
+workbench.view.extension.test.state.hidden: '[{"id":"python_tests","isHidden":false},{"id":"workbench.view.testing","isHidden":false}]'
+esbenp.prettier-vscode: '{"PRETTIER_MODULE_ALWAYS_ALLOWED":true}'
+ms-python.vscode-pylance: '{"PylanceLaunchCounter":21,"insidersChannel":"off","PylanceSurveyShowAfterCount":21.291828793774318}'
+workbench.panel.lastNonMaximizedWidth: "300"
+alefragnani.numbered-bookmarks: '{"numbered-bookmarks.version":"8.1.0"}'
+vincaslt.highlight-matching-tag: '{"hmtVersion":"0.10.1"}'
+workbench.view.extensions.state.hidden: '[{"id":"extensions.popularExtensionsList","isHidden":false},{"id":"extensions.enabledExtensionList","isHidden":false},{"id":"extensions.disabledExtensionList","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"extensions.listView","isHidden":false},{"id":"extensions.vscode-local.installed","isHidden":false},{"id":"extensions.disabledExtensionList2","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.installed.empty","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false}]'
+workbench.welcomePage.walkthroughMetadata: '[["ms-python.python#pythonWelcome",{"firstSeen":1628314831440,"stepIDs":["python.installPythonWin","python.installPythonMac","python.installPythonLinux","python.selectInterpreter","python.runAndDebug","python.runAndDebugMacOS","python.learnMore"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1628314831440,"stepIDs":["python.installPython","python.openFolderMac","python.openFolder","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}]]'
+workbench.view.remote.state.hidden: '[{"id":"remoteHub.views.workspaceRepositories","isHidden":false}]'
+PKief.material-icon-theme: '{"material-icon-theme.version":"4.10.0"}'
+alefragnani.Bookmarks: '{"Bookmarks.version":"13.2.1"}'
+workbench.panel.lastNonMaximizedHeight: "284"
+workbench.panel.dimension: bottom
+workbench.welcomePage.hiddenCategories: '["Intermediate"]'
+VisualStudioExptTeam.vscodeintellicode: '{"VSCode.ABExp.Features":["pythondeepserving","livesharecontinuousaacf","reusableLinks","RemoveKernelToolbarInInteractiveWindow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-staging","portForwardingServiceEnabled-production","mindaroBinariesVersion","mindaroBinariesVersion-1.0.20210702","mindaroBinariesVersion-1.0.20210723","account-aa"]}'
+workbench.auxiliarybar.size: "300"
+workbench.explorer.views.state.hidden: '[{"id":"workbench.explorer.fileView","isHidden":false},{"id":"outline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"npm","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"commitViewProvider","isHidden":false},{"id":"timeline","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false},{"id":"cSpellRegExpView","isHidden":false},{"id":"insert-unicode.identifyView","isHidden":false},{"id":"txtsyntaxHighlightExplore","isHidden":false},{"id":"filters","isHidden":false},{"id":"vscodeMarkdownNotesBacklinks","isHidden":false}]'
+workbench.sidebar.size: "321"
+shyykoserhiy.vscode-spotify: "{\"persist:root\":\"{\\\"playerState\\\":\\\"{\\\\\
+  \\\"position\\\\\\\":0,\\\\\\\"volume\\\\\\\":0,\\\\\\\"state\\\\\\\":\\\\\\\
+  \"paused\\\\\\\",\\\\\\\"isRepeating\\\\\\\":false,\\\\\\\"isShuffling\\\\\\\
+  \":false}\\\",\\\"track\\\":\\\"{\\\\\\\"album\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\
+  \"artist\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"\\\\\\\"}\\\",\
+  \\\"isRunning\\\":\\\"false\\\",\\\"loginState\\\":\\\"{\\\\\\\"accessToken\\\
+  \\\\\":\\\\\\\"BQAb-lYjvPm70iaeo4v6YIbaKmwo5LLVSjZl1vprJBNsFAn1WQ60Nl3VFqC5ax\
+  _HK385NDMO-EefeDZB6M_DD6lvt5oyQK4Zr5CbkopJ0247egnjGI4sqdQObHHqI6gFZfn4bXEzNq0\
+  eK569zUTQFRPKmuod9TSxSjAvFVZPIhLn0f2o0U_Eq4_fEZgDxY9OkfzQ_X1WRTt8fnqD\\\\\\\",\
+  \\\\\\\"refreshToken\\\\\\\":\\\\\\\"AQDOyFHZUA8cSt7gRhFruOf4AT972BT6M-_Qx7JO\
+  56r1b5oDvXialEVtFjXjmHOaxnc_kdkzoQK3mkBswTy4n0nWkt-egxf6udSJykiH3f-SvJIp2w6QM\
+  mBTE9SIHnRmtKMYdQ\\\\\\\"}\\\",\\\"playlists\\\":\\\"[{\\\\\\\"collaborative\\\
+  \\\\\":false,\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"h\
+  ttps://open.spotify.com/playlist/37i9dQZF1DX1tyCD9QhIWF\\\\\\\"},\\\\\\\"href\
+  \\\\\\\":\\\\\\\"https://api.spotify.com/v1/playlists/37i9dQZF1DX1tyCD9QhIWF\\\
+  \\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"37i9dQZF1DX1tyCD9QhIWF\\\\\\\",\\\\\\\"imag\
+  es\\\\\\\":[{\\\\\\\"height\\\\\\\":null,\\\\\\\"url\\\\\\\":\\\\\\\"https://\
+  pl.scdn.co/images/pl/default/a95a776c53bb238c87c4c6833bb87c742936eac2\\\\\\\",\
+  \\\\\\\"width\\\\\\\":null}],\\\\\\\"name\\\\\\\":\\\\\\\"Walk Like A
+  Badass\\\\\\\",\\\\\\\"owner\\\\\\\":{\\\\\\\"display_name\\\\\\\":\\\\\\\"Sp\
+  otify\\\\\\\",\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"\
+  https://open.spotify.com/user/spotify\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"h\
+  ttps://api.spotify.com/v1/users/spotify\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"sp\
+  otify\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"user\\\\\\\",\\\\\\\"uri\\\\\\\":\\\
+  \\\\\"spotify:user:spotify\\\\\\\"},\\\\\\\"primary_color\\\\\\\":null,\\\\\\\
+  \"public\\\\\\\":false,\\\\\\\"snapshot_id\\\\\\\":\\\\\\\"MTU2NDczNTczMCwwMD\
+  AwMDA2NDAwMDAwMTZjNTE4NDcyMDIwMDAwMDE2YTI1YjZiMWRl\\\\\\\",\\\\\\\"tracks\\\\\
+  \\\":{\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/playlists/37i9d\
+  QZF1DX1tyCD9QhIWF/tracks\\\\\\\",\\\\\\\"total\\\\\\\":50},\\\\\\\"type\\\\\\\
+  \":\\\\\\\"playlist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:playlist:37i9\
+  dQZF1DX1tyCD9QhIWF\\\\\\\"},{\\\\\\\"collaborative\\\\\\\":false,\\\\\\\"exte\
+  rnal_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/p\
+  laylist/37i9dQZF1DX0IyMQV27EGn\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://\
+  api.spotify.com/v1/playlists/37i9dQZF1DX0IyMQV27EGn\\\\\\\",\\\\\\\"id\\\\\\\
+  \":\\\\\\\"37i9dQZF1DX0IyMQV27EGn\\\\\\\",\\\\\\\"images\\\\\\\":[{\\\\\\\"he\
+  ight\\\\\\\":null,\\\\\\\"url\\\\\\\":\\\\\\\"https://pl.scdn.co/images/pl/de\
+  fault/b43ca69a663639465034619c9d0f24304518578d\\\\\\\",\\\\\\\"width\\\\\\\":\
+  null}],\\\\\\\"name\\\\\\\":\\\\\\\"Femme
+  Fatale\\\\\\\",\\\\\\\"owner\\\\\\\":{\\\\\\\"display_name\\\\\\\":\\\\\\\"Sp\
+  otify\\\\\\\",\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"\
+  https://open.spotify.com/user/spotify\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"h\
+  ttps://api.spotify.com/v1/users/spotify\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"sp\
+  otify\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"user\\\\\\\",\\\\\\\"uri\\\\\\\":\\\
+  \\\\\"spotify:user:spotify\\\\\\\"},\\\\\\\"primary_color\\\\\\\":null,\\\\\\\
+  \"public\\\\\\\":false,\\\\\\\"snapshot_id\\\\\\\":\\\\\\\"MTU2Njc5MDY5MCwwMD\
+  AwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl\\\\\\\",\\\\\\\"tracks\\\\\
+  \\\":{\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/playlists/37i9d\
+  QZF1DX0IyMQV27EGn/tracks\\\\\\\",\\\\\\\"total\\\\\\\":80},\\\\\\\"type\\\\\\\
+  \":\\\\\\\"playlist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:playlist:37i9\
+  dQZF1DX0IyMQV27EGn\\\\\\\"},{\\\\\\\"collaborative\\\\\\\":false,\\\\\\\"exte\
+  rnal_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/p\
+  laylist/37i9dQZF1DWZ0OzPeadl0h\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://\
+  api.spotify.com/v1/playlists/37i9dQZF1DWZ0OzPeadl0h\\\\\\\",\\\\\\\"id\\\\\\\
+  \":\\\\\\\"37i9dQZF1DWZ0OzPeadl0h\\\\\\\",\\\\\\\"images\\\\\\\":[{\\\\\\\"he\
+  ight\\\\\\\":null,\\\\\\\"url\\\\\\\":\\\\\\\"https://pl.scdn.co/images/pl/de\
+  fault/91a550e25e99148eabbb5fcd03ba0695d276bb83\\\\\\\",\\\\\\\"width\\\\\\\":\
+  null}],\\\\\\\"name\\\\\\\":\\\\\\\"Evening
+  Chill\\\\\\\",\\\\\\\"owner\\\\\\\":{\\\\\\\"display_name\\\\\\\":\\\\\\\"Spo\
+  tify\\\\\\\",\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"h\
+  ttps://open.spotify.com/user/spotify\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"ht\
+  tps://api.spotify.com/v1/users/spotify\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"spo\
+  tify\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"user\\\\\\\",\\\\\\\"uri\\\\\\\":\\\
+  \\\\\"spotify:user:spotify\\\\\\\"},\\\\\\\"primary_color\\\\\\\":null,\\\\\\\
+  \"public\\\\\\\":false,\\\\\\\"snapshot_id\\\\\\\":\\\\\\\"MTU1Nzk3ODQxMSwwMD\
+  AwMDA0OTAwMDAwMTZhYmViZmYwMDMwMDAwMDE2ODk4YzgwNzQ4\\\\\\\",\\\\\\\"tracks\\\\\
+  \\\":{\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/playlists/37i9d\
+  QZF1DWZ0OzPeadl0h/tracks\\\\\\\",\\\\\\\"total\\\\\\\":85},\\\\\\\"type\\\\\\\
+  \":\\\\\\\"playlist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:playlist:37i9\
+  dQZF1DWZ0OzPeadl0h\\\\\\\"},{\\\\\\\"collaborative\\\\\\\":false,\\\\\\\"exte\
+  rnal_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/p\
+  laylist/0YiC99VOQLj1vY3fcioH0W\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://\
+  api.spotify.com/v1/playlists/0YiC99VOQLj1vY3fcioH0W\\\\\\\",\\\\\\\"id\\\\\\\
+  \":\\\\\\\"0YiC99VOQLj1vY3fcioH0W\\\\\\\",\\\\\\\"images\\\\\\\":[{\\\\\\\"he\
+  ight\\\\\\\":640,\\\\\\\"url\\\\\\\":\\\\\\\"https://mosaic.scdn.co/640/1a7cc\
+  a839cf29033ba98f9521590c68e20934c0826cee9d0c5819d7267c892e1632fdc3ea7d44a5a32\
+  6272069f79ed57e6473c13b4afc434cacc6c95b136071d4d084d817dcac653fe33ab4f32384096\
+  \\\\\\\",\\\\\\\"width\\\\\\\":640},{\\\\\\\"height\\\\\\\":300,\\\\\\\"url\\\
+  \\\\\":\\\\\\\"https://mosaic.scdn.co/300/1a7cca839cf29033ba98f9521590c68e209\
+  34c0826cee9d0c5819d7267c892e1632fdc3ea7d44a5a326272069f79ed57e6473c13b4afc434\
+  cacc6c95b136071d4d084d817dcac653fe33ab4f32384096\\\\\\\",\\\\\\\"width\\\\\\\
+  \":300},{\\\\\\\"height\\\\\\\":60,\\\\\\\"url\\\\\\\":\\\\\\\"https://mosaic\
+  .scdn.co/60/1a7cca839cf29033ba98f9521590c68e20934c0826cee9d0c5819d7267c892e16\
+  32fdc3ea7d44a5a326272069f79ed57e6473c13b4afc434cacc6c95b136071d4d084d817dcac6\
+  53fe33ab4f32384096\\\\\\\",\\\\\\\"width\\\\\\\":60}],\\\\\\\"name\\\\\\\":\\\
+  \\\\\"First\\\\\\\",\\\\\\\"owner\\\\\\\":{\\\\\\\"display_name\\\\\\\":\\\\\\\
+  \"Akshay
+  Ghate\\\\\\\",\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"\
+  https://open.spotify.com/user/34q02t9z585hjrhay8yq5c0l8\\\\\\\"},\\\\\\\"href\
+  \\\\\\\":\\\\\\\"https://api.spotify.com/v1/users/34q02t9z585hjrhay8yq5c0l8\\\
+  \\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"34q02t9z585hjrhay8yq5c0l8\\\\\\\",\\\\\\\"t\
+  ype\\\\\\\":\\\\\\\"user\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:user:34q\
+  02t9z585hjrhay8yq5c0l8\\\\\\\"},\\\\\\\"primary_color\\\\\\\":null,\\\\\\\"pu\
+  blic\\\\\\\":true,\\\\\\\"snapshot_id\\\\\\\":\\\\\\\"MTEsYzU2NzQzNzVhZDVlODV\
+  lYzc0NGIzODM1ZDQyNDNmY2I1ZDUzM2RjMw==\\\\\\\",\\\\\\\"tracks\\\\\\\":{\\\\\\\
+  \"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/playlists/0YiC99VOQLj1vY3fc\
+  ioH0W/tracks\\\\\\\",\\\\\\\"total\\\\\\\":5},\\\\\\\"type\\\\\\\":\\\\\\\"pl\
+  aylist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:playlist:0YiC99VOQLj1vY3fc\
+  ioH0W\\\\\\\"}]\\\",\\\"selectedPlaylist\\\":\\\"null\\\",\\\"tracks\\\":\\\"{\
+  \\\\\\\"37i9dQZF1DX0IyMQV27EGn\\\\\\\":[{\\\\\\\"track\\\\\\\":{\\\\\\\"album\
+  \\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"4uXHoKzORbwkOfDmrM9HVQ\\\\\\\",\\\\\\\"n\
+  ame\\\\\\\":\\\\\\\"Human
+  Again\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQF\
+  YG0\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  2vm8GdHyrJh2O2MfbQFYG0\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"2vm8GdHyrJh2O2MfbQF\
+  YG0\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Ingrid
+  Michaelson\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\
+  \\\":\\\\\\\"spotify:artist:2vm8GdHyrJh2O2MfbQFYG0\\\\\\\"}],\\\\\\\"id\\\\\\\
+  \":\\\\\\\"1G3hr6HlP3d13477lbWw9Q\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Ghost\\\
+  \\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:1G3hr6HlP3d13477lbWw9Q\\\\\\\
+  \"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\
+  \"5gVBXH8MT6zfdRkjp7qT18\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Tidal\\\\\\\"},\
+  \\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\
+  \":\\\\\\\"https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL\\\\\\\"},\\\
+  \\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV\
+  7T4GPtL\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"3g2kUQ6tHLLbmkV7T4GPtL\\\\\\\",\\\\\
+  \\\"name\\\\\\\":\\\\\\\"Fiona
+  Apple\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"6PNvv1dmDbOWrAYwEcuKBX\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Criminal\\\\\
+  \\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:6PNvv1dmDbOWrAYwEcuKBX\\\\\\\"\
+  }},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"\
+  5APuOmOm6BQaibtWgg6Q4h\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Carry
+  On\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"\
+  spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA\
+  \\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/2eR\
+  NMtoi82UZUuaL6naDjA\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"2eRNMtoi82UZUuaL6naDjA\
+  \\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Cœur De
+  Pirate\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:2eRNMtoi82UZUuaL6naDjA\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"3nhWJM3a8uBrVDo3wAGBqX\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Carry
+  On\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:3nhWJM3a8uBrVDo3wAGBqX\\\
+  \\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\
+  \\\\\"7JAjkBEu6WxQDhRY2ebi7w\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"The Love
+  Club
+  EP\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"\
+  spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm\
+  \\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/163\
+  tK9Wjr9P9DmM0AVK7lm\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"163tK9Wjr9P9DmM0AVK7lm\
+  \\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Lorde\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\
+  \\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:163tK9Wjr9P9DmM\
+  0AVK7lm\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"1ywFWiTDPQcC8JfrX1l0gq\\\\\\\",\\\
+  \\\\\"name\\\\\\\":\\\\\\\"Bravado\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotif\
+  y:track:1ywFWiTDPQcC8JfrX1l0gq\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\
+  \\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"6uOOMZO99TCEm9VvywEBIU\\\\\\\",\\\\\\\"n\
+  ame\\\\\\\":\\\\\\\"Boom\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_\
+  urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist\
+  /4DTbdShHu2RPYEEMUp2XWV\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spo\
+  tify.com/v1/artists/4DTbdShHu2RPYEEMUp2XWV\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\
+  \"4DTbdShHu2RPYEEMUp2XWV\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Anjulie\\\\\\\",\
+  \\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spoti\
+  fy:artist:4DTbdShHu2RPYEEMUp2XWV\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"0i7rtUm\
+  z2JW75aGy4igiZo\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Boom\\\\\\\",\\\\\\\"uri\
+  \\\\\\\":\\\\\\\"spotify:track:0i7rtUmz2JW75aGy4igiZo\\\\\\\"}},{\\\\\\\"track\
+  \\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"563h536tB6n8Dn62j\
+  r4RZG\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"The Weight of These
+  Wings\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKb\
+  wA0\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  66lH4jAE7pqPlOlzUKbwA0\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"66lH4jAE7pqPlOlzUKb\
+  wA0\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Miranda
+  Lambert\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:66lH4jAE7pqPlOlzUKbwA0\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"1m6un0uWcRlNcJHBQ1lKAo\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Highway
+  Vagabond\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:1m6un0uWcRlNcJHBQ1\
+  lKAo\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"4voFh2g1uE7jibfHLx7OlW\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Spotify
+  Sessions\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\
+  \\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/5Q8NEHGX70m1kko\
+  jbtm8wa\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/arti\
+  sts/5Q8NEHGX70m1kkojbtm8wa\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"5Q8NEHGX70m1kko\
+  jbtm8wa\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Ibeyi\\\\\\\",\\\\\\\"type\\\\\\\
+  \":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:5Q8NEHGX\
+  70m1kkojbtm8wa\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"0Ox05dbHRZulFOI8EOkjdR\\\\\
+  \\\",\\\\\\\"name\\\\\\\":\\\\\\\"Weatherman (Live From Spotify
+  London)\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:0Ox05dbHRZulFOI8EOk\
+  jdR\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"5b8YTIrc88vdnfRguZqvVE\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Bear
+  Creek\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf\
+  5Ej\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  2sG4zTOLvjKG1PSoOyf5Ej\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"2sG4zTOLvjKG1PSoOyf\
+  5Ej\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Brandi
+  Carlile\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"4TWn4YeBaTqDURrYLd6k0a\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Raise
+  Hell\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:4TWn4YeBaTqDURrYLd6k0a\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"5r0Xd2wqRkTE0BqbeYlnFN\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"The Civil
+  Wars\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/6J7rw7NELJUCThPbAfy\
+  LIE\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  6J7rw7NELJUCThPbAfyLIE\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"6J7rw7NELJUCThPbAfy\
+  LIE\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"The Civil
+  Wars\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:6J7rw7NELJUCThPbAfyLIE\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"4qoD4IJbbir3hsAu4IowiG\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Devil's
+  Backbone\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:4qoD4IJbbir3hsAu4I\
+  owiG\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"2HtT4gawEGgOvAPUO7tiU2\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Gravel
+  &
+  Wine\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZ\
+  jzG\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  4Gzfk9Lxm67nBs7E9BZjzG\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"4Gzfk9Lxm67nBs7E9BZ\
+  jzG\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Gin
+  Wigmore\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:4Gzfk9Lxm67nBs7E9BZjzG\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"2m17BTWlZq0wtS9cpJsCfM\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Kill Of
+  The
+  Night\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:2m17BTWlZq0wtS9cpJsCfM\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"5V6hoaFti4gY7EZfb2UBU2\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Nobody\\\\\
+  \\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\
+  \\\\\\\":\\\\\\\"https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6\\\\\\\
+  \"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/7w0qj2HiA\
+  PIeUcoPogvOZ6\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"7w0qj2HiAPIeUcoPogvOZ6\\\\\\\
+  \",\\\\\\\"name\\\\\\\":\\\\\\\"Rachael
+  Yamagata\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:7w0qj2HiAPIeUcoPogvOZ6\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"5PPo3jzi0f3kFrboVgPZJU\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Nobody\\\\\
+  \\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:5PPo3jzi0f3kFrboVgPZJU\\\\\\\"\
+  }},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"\
+  1D92WOHWUI2AGQCCdplcXL\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Young And
+  Beautiful\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\
+  \\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/00FQb4jTyendYWa\
+  N8pK0wa\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/arti\
+  sts/00FQb4jTyendYWaN8pK0wa\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"00FQb4jTyendYWa\
+  N8pK0wa\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Lana Del
+  Rey\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\
+  \\\\\"spotify:artist:00FQb4jTyendYWaN8pK0wa\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\
+  \\\"2nMeu6UenVvwUktBCpLMK9\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Young And
+  Beautiful\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:2nMeu6UenVvwUktBC\
+  pLMK9\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\
+  \\\":\\\\\\\"5fX9RsK7inhesnswtxGkxu\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Jura\
+  ssic Jukebox and Other
+  Drugs\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/1Bztk1lPSvwiBJCujOb\
+  yxU\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  1Bztk1lPSvwiBJCujObyxU\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"1Bztk1lPSvwiBJCujOb\
+  yxU\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Caitlyn
+  Scarlett\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:1Bztk1lPSvwiBJCujObyxU\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"276CXzMvxmOi4fN4iBp74T\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Bad
+  Love\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:276CXzMvxmOi4fN4iBp74T\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"1KOK73mQjuJraMMAJFNBxO\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"The Soul
+  Sessions, Vol. 2 (Deluxe
+  Edition)\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\
+  \\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/7bvcQXJHkFiN1pp\
+  IN3q4fi\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/arti\
+  sts/7bvcQXJHkFiN1ppIN3q4fi\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"7bvcQXJHkFiN1pp\
+  IN3q4fi\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Joss
+  Stone\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:7bvcQXJHkFiN1ppIN3q4fi\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"3fOJ7Wp6b7Gg6vpX3OAFLM\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"The High
+  Road\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:3fOJ7Wp6b7Gg6vpX3OAFLM\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"4C83S6csUyg8zvxWphNP5o\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Hopeless
+  Romantic\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\
+  \\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/5rScKX1Sh1U67me\
+  eUyTGwk\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/arti\
+  sts/5rScKX1Sh1U67meeUyTGwk\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"5rScKX1Sh1U67me\
+  eUyTGwk\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Michelle
+  Branch\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:5rScKX1Sh1U67meeUyTGwk\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"1EAjSo91pg9eBHXM7E0V5J\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Hopeless
+  Romantic\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:1EAjSo91pg9eBHXM7E\
+  0V5J\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"26RgNvUsIac2qyEPxYiy2M\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Over\\\
+  \\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spot\
+  ify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6\\\\\
+  \\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/7w0qj2H\
+  iAPIeUcoPogvOZ6\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"7w0qj2HiAPIeUcoPogvOZ6\\\\\
+  \\\",\\\\\\\"name\\\\\\\":\\\\\\\"Rachael
+  Yamagata\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:7w0qj2HiAPIeUcoPogvOZ6\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"0gnPyPBc2FcB79JGgpbstY\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Over\\\\\\\
+  \",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:0gnPyPBc2FcB79JGgpbstY\\\\\\\"}}\
+  ,{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"0d\
+  Yi4VGov4Dl4AED2eVwPw\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Lost on
+  You\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q\
+  85A\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  0J7U24vlOOIeMpuaO6Q85A\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"0J7U24vlOOIeMpuaO6Q\
+  85A\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"LP\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\
+  \\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:0J7U24vlOOIeMpu\
+  aO6Q85A\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"0hJJeoT5Rmi5IF3ZhC7TIZ\\\\\\\",\\\
+  \\\\\"name\\\\\\\":\\\\\\\"No
+  Witness\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:0hJJeoT5Rmi5IF3ZhC7\
+  TIZ\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"1Ku2j8kIWfgAH1Z1g5rz6W\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Sweet
+  Ophelia\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\
+  \\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/100sLnojEpcadRx4e\
+  dEBA6\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artist\
+  s/100sLnojEpcadRx4edEBA6\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"100sLnojEpcadRx4e\
+  dEBA6\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Zella
+  Day\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\
+  \\\\\"spotify:artist:100sLnojEpcadRx4edEBA6\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\
+  \\\"3hMVNsHKnApzCa6Lw6vlVj\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Sweet
+  Ophelia\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:3hMVNsHKnApzCa6Lw6v\
+  lVj\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"3KcDlXUjE04DHzfRA497IJ\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Felony
+  Flats
+  (Deluxe)\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\
+  \\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/6xYBLeSMu1AqPsn\
+  UzEvx5n\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/arti\
+  sts/6xYBLeSMu1AqPsnUzEvx5n\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"6xYBLeSMu1AqPsn\
+  UzEvx5n\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Anya
+  Marina\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:6xYBLeSMu1AqPsnUzEvx5n\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"4OmOyT28pVbWeIRCv09NPw\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Heart
+  Stops\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:4OmOyT28pVbWeIRCv09NPw\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"1ivkZkfGqLU1Rf8E92hxwf\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Should I
+  Stay Or Should I Go (From The TV Show \\\\\\\\\\\\\\\"Wicked
+  City\\\\\\\\\\\\\\\")\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\
+  \\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/5zz\
+  rJD2jXrE9dZ1AklRFcL\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify\
+  .com/v1/artists/5zzrJD2jXrE9dZ1AklRFcL\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"5zz\
+  rJD2jXrE9dZ1AklRFcL\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"KT
+  Tunstall\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:5zzrJD2jXrE9dZ1AklRFcL\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"04wrnpT0QumuU3GPWbf0VV\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Should I
+  Stay Or Should I Go - From The TV Show \\\\\\\\\\\\\\\"Wicked
+  City\\\\\\\\\\\\\\\"\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:04wrnp\
+  T0QumuU3GPWbf0VV\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\
+  \\\"id\\\\\\\":\\\\\\\"6Tx3XBJwjJ44clD1dkoKm6\\\\\\\",\\\\\\\"name\\\\\\\":\\\
+  \\\\\"We Could Fall In
+  Love\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP85\
+  1bV\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  1Ng8y6ZAaf4gS3ywP851bV\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"1Ng8y6ZAaf4gS3ywP85\
+  1bV\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Hesta
+  Prynn\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:1Ng8y6ZAaf4gS3ywP851bV\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"2kel7wmSsmV5UOYkPGacZI\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Beside
+  Myself\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:2kel7wmSsmV5UOYkPGac\
+  ZI\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"7d9qVO7iOXlUGvlXTFWhAE\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Metals\
+  \\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"sp\
+  otify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj\\\
+  \\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/6CWTB\
+  jOJK75cTE8Xv8u1kj\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"6CWTBjOJK75cTE8Xv8u1kj\\\
+  \\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Feist\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\
+  \"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:6CWTBjOJK75cTE8Xv\
+  8u1kj\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"1UPbMOdvd82WdzjxG4ZLdV\\\\\\\",\\\\\
+  \\\"name\\\\\\\":\\\\\\\"How Come You Never Go
+  There\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:1UPbMOdvd82WdzjxG4ZLdV\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"3an2ZELP30YhyM9SwAytos\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Make A
+  Shadow\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\
+  \\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/0W8xe7IqAPlnBRMUp\
+  WOUuJ\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artist\
+  s/0W8xe7IqAPlnBRMUpWOUuJ\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"0W8xe7IqAPlnBRMUp\
+  WOUuJ\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Meg
+  Myers\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:0W8xe7IqAPlnBRMUpWOUuJ\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"2GvtgZIVoPbFrpG659ggUD\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Desire\\\\\\\
+  \",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:2GvtgZIVoPbFrpG659ggUD\\\\\\\"}}\
+  ,{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"57\
+  diOTCTnYi2ySwkgLv2UL\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Lead to
+  Light\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/1gUch6pcj8OKOw6kKlW\
+  APE\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  1gUch6pcj8OKOw6kKlWAPE\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"1gUch6pcj8OKOw6kKlW\
+  APE\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Nico
+  Vega\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:1gUch6pcj8OKOw6kKlWAPE\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"3qsrlCAvCybz6EPKBKmH5K\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Bang Bang
+  (My Baby Shot Me
+  Down)\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:3qsrlCAvCybz6EPKBKmH5K\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"508deL70c5SIqY7iZcr1gR\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Hope You
+  Understand\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\
+  \\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/6y5amJcTjeDgL\
+  XIjtQLMst\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/ar\
+  tists/6y5amJcTjeDgLXIjtQLMst\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"6y5amJcTjeDgL\
+  XIjtQLMst\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Grace\\\\\\\",\\\\\\\"type\\\\\
+  \\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:6y5amJ\
+  cTjeDgLXIjtQLMst\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"6ht5cDaJsrvWXCOd0vkIsX\\\
+  \\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Hope You
+  Understand\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:6ht5cDaJsrvWXCOd\
+  0vkIsX\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\
+  \\\":\\\\\\\"5Rt9e9tIVD5vPDM2gmz5Uc\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Befo\
+  re You Called Me
+  Baby\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/3uikSah4dwqwuk0EidF\
+  I4R\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  3uikSah4dwqwuk0EidFI4R\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"3uikSah4dwqwuk0EidF\
+  I4R\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Caitlyn
+  Smith\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:3uikSah4dwqwuk0EidFI4R\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"19A1Iok6kGgV5aikHlq2jr\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Before You
+  Called Me
+  Baby\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:19A1Iok6kGgV5aikHlq2jr\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"1NQFrTSHt9aZNUuFLwSj3d\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"One More
+  Habit\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/7rjqEDqvREzfmSP58SL\
+  YXT\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  7rjqEDqvREzfmSP58SLYXT\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"7rjqEDqvREzfmSP58SL\
+  YXT\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Kelsey
+  Waters\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:7rjqEDqvREzfmSP58SLYXT\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"2c2ZYcQjdWfDIxTxjfSB6Z\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"One More
+  Habit\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:2c2ZYcQjdWfDIxTxjfSB6Z\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"6NykKu6IjzO1r7UFANX8kh\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Back To
+  Black\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/6Q192DXotxtaysaqNPy\
+  5yR\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  6Q192DXotxtaysaqNPy5yR\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"6Q192DXotxtaysaqNPy\
+  5yR\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Amy
+  Winehouse\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\
+  \\\":\\\\\\\"spotify:artist:6Q192DXotxtaysaqNPy5yR\\\\\\\"}],\\\\\\\"id\\\\\\\
+  \":\\\\\\\"1ObS3tBoP3SkKlYWOsCqY1\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"You
+  Know I'm No
+  Good\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:1ObS3tBoP3SkKlYWOsCqY1\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"5o32Ftd7SS0EKIQlFwubH4\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"In Loving
+  Memory of When I Gave a
+  Shit\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/0H0OkFxp022WOyKlt3H\
+  mlA\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  0H0OkFxp022WOyKlt3HmlA\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"0H0OkFxp022WOyKlt3H\
+  mlA\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"LOLO\\\\\\\",\\\\\\\"type\\\\\\\":\\\
+  \\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:0H0OkFxp022WO\
+  yKlt3HmlA\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"0UyCF0hctdZJomjdzDibPB\\\\\\\",\
+  \\\\\\\"name\\\\\\\":\\\\\\\"Not Gonna Let You Walk
+  Away\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:0UyCF0hctdZJomjdzDibPB\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"0tSfnn1iUiahyqp1m8y3TI\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"You\\\\\\\
+  \"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\\\
+  \\\\\":\\\\\\\"https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN\\\\\\\"\
+  },\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/7BsLsPnH5sw\
+  TyhGZq2qNbN\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"7BsLsPnH5swTyhGZq2qNbN\\\\\\\",\
+  \\\\\\\"name\\\\\\\":\\\\\\\"Greta
+  Isaac\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:7BsLsPnH5swTyhGZq2qNbN\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"4RAtSYcB1avIFHPhulXVxA\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"You\\\\\\\",\
+  \\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:4RAtSYcB1avIFHPhulXVxA\\\\\\\"}},{\\\
+  \\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"1kAOWJ\
+  psLwo4636UM3f2vF\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"This Side Of
+  Paradise\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\
+  \\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/6zO6YtmClhozAfx\
+  R05frh2\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/arti\
+  sts/6zO6YtmClhozAfxR05frh2\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"6zO6YtmClhozAfx\
+  R05frh2\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Marie
+  Miller\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:6zO6YtmClhozAfxR05frh2\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"3NgLYB45IAVOhnIeEkquZt\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"This Side
+  Of
+  Paradise\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:3NgLYB45IAVOhnIeEk\
+  quZt\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"1EhkXNK9Y9WFGb1s77NFmn\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Cannon\
+  ball
+  (Acoustic)\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\
+  \\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/7aJSIsbI5wV8a\
+  Fi2kkFfPi\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/ar\
+  tists/7aJSIsbI5wV8aFi2kkFfPi\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"7aJSIsbI5wV8a\
+  Fi2kkFfPi\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"ZZ
+  Ward\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:7aJSIsbI5wV8aFi2kkFfPi\\\\\\\"},{\\\\\\\"external_urls\
+  \\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/5QX\
+  LMdpKeByOo5ypH9gT13\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify\
+  .com/v1/artists/5QXLMdpKeByOo5ypH9gT13\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"5QX\
+  LMdpKeByOo5ypH9gT13\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Fantastic
+  Negrito\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:5QXLMdpKeByOo5ypH9gT13\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"21TxR8B11XQRg3PTOLZ7PH\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Cannonball
+  -
+  Acoustic\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:21TxR8B11XQRg3PTOL\
+  Z7PH\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"6QS8syfjUUsp7PAVDxYmEk\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Starfi\
+  re\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"\
+  spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R\
+  \\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/3ui\
+  kSah4dwqwuk0EidFI4R\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"3uikSah4dwqwuk0EidFI4R\
+  \\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Caitlyn
+  Smith\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:3uikSah4dwqwuk0EidFI4R\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"2qFxaigTgUCVxrVIVjuaH3\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Starfire\\\\\
+  \\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:2qFxaigTgUCVxrVIVjuaH3\\\\\\\"\
+  }},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"\
+  3Ajo6U3AfyF5TtdIGAPMlx\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Ex's &
+  Oh's\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/3bhu7P5PfngueRHiB9h\
+  jcx\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  3bhu7P5PfngueRHiB9hjcx\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"3bhu7P5PfngueRHiB9h\
+  jcx\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Elle
+  King\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:3bhu7P5PfngueRHiB9hjcx\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"637kmONo6eMUOd10n9z4xb\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Ex's &
+  Oh's\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:637kmONo6eMUOd10n9z4xb\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"4iUKF6bSM4dAsGAfPHVQXm\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Live at
+  St. Margarets Chapel
+  (Live)\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\
+  \\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/7pwoWOh2sbcmRFkk7\
+  QWQsS\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artist\
+  s/7pwoWOh2sbcmRFkk7QWQsS\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"7pwoWOh2sbcmRFkk7\
+  QWQsS\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Earl\\\\\\\",\\\\\\\"type\\\\\\\":\
+  \\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:7pwoWOh2sbc\
+  mRFkk7QWQsS\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"6WMqm7SOuCGgIBqXifY67N\\\\\\\
+  \",\\\\\\\"name\\\\\\\":\\\\\\\"Touched
+  (Live)\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:6WMqm7SOuCGgIBqXifY6\
+  7N\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"2gOdx3I0TgGLYynQmR876n\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"The
+  Nameless (expanded
+  edition)\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\
+  \\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/1HwEmZUm1VIh3VL\
+  myMLa3g\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/arti\
+  sts/1HwEmZUm1VIh3VLmyMLa3g\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"1HwEmZUm1VIh3VL\
+  myMLa3g\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Cathy
+  Davey\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:1HwEmZUm1VIh3VLmyMLa3g\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"5uUv74gkYBFYMGkS0D4cuW\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"The
+  Touch\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:5uUv74gkYBFYMGkS0D4cuW\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"5ddYMcPHMnlbboexXJLNP7\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Wanderlust\
+  \\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"sp\
+  otify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/1E5sJ5BrLqHGxzgy8cDJ0B\\\
+  \\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/1E5sJ\
+  5BrLqHGxzgy8cDJ0B\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"1E5sJ5BrLqHGxzgy8cDJ0B\\\
+  \\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Ella
+  Fence\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:1E5sJ5BrLqHGxzgy8cDJ0B\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"3y20U1iHdEw5rrQaurVykO\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Hunter\\\\\\\
+  \",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:3y20U1iHdEw5rrQaurVykO\\\\\\\"}}\
+  ,{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"6g\
+  yyN6PWr0zYPg5y3EUOwf\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Spider in the Roses
+  (feat. Rob the
+  Man)\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/6xezzx8L2FAC0MsGZSR\
+  Lxg\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  6xezzx8L2FAC0MsGZSRLxg\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"6xezzx8L2FAC0MsGZSR\
+  Lxg\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Sonia
+  Leigh\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:6xezzx8L2FAC0MsGZSRLxg\\\\\\\"},{\\\\\\\"external_urls\
+  \\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/40Q\
+  m9cpj6FlrkoL1sziJ2S\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify\
+  .com/v1/artists/40Qm9cpj6FlrkoL1sziJ2S\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"40Q\
+  m9cpj6FlrkoL1sziJ2S\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Daphne
+  Willis\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:40Qm9cpj6FlrkoL1sziJ2S\\\\\\\"},{\\\\\\\"external_u\
+  rls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/\
+  3jO133hmnKXdj74oUVnEyr\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spot\
+  ify.com/v1/artists/3jO133hmnKXdj74oUVnEyr\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"\
+  3jO133hmnKXdj74oUVnEyr\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Rob the
+  Man\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\
+  \\\\\"spotify:artist:3jO133hmnKXdj74oUVnEyr\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\
+  \\\"7GRjFivuEaOyRMYcKGryXz\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Spider in the
+  Roses (feat. Rob the
+  Man)\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:7GRjFivuEaOyRMYcKGryXz\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"7fToSXQSfd1Et8SSMzD17C\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Intention\
+  al
+  Living\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\
+  \\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/0NnyKz36MvIC2R3dF\
+  ht35A\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artist\
+  s/0NnyKz36MvIC2R3dFht35A\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"0NnyKz36MvIC2R3dF\
+  ht35A\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Gossling\\\\\\\",\\\\\\\"type\\\\\\\
+  \":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:0NnyKz36\
+  MvIC2R3dFht35A\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"5OfSRyFG41IAv3v4wV7nTR\\\\\
+  \\\",\\\\\\\"name\\\\\\\":\\\\\\\"Heart
+  Killer\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:5OfSRyFG41IAv3v4wV7n\
+  TR\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"39zshfgyTuvgEfx4YOXAMT\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"God,
+  Help
+  Me\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"\
+  spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW\
+  \\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/1cp\
+  kiJukYGm0dr7Fm9HpNW\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"1cpkiJukYGm0dr7Fm9HpNW\
+  \\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Leah
+  Blevins\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:1cpkiJukYGm0dr7Fm9HpNW\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"0MHl3Mr31DYK8p1lsUEVqP\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"God, Help
+  Me\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:0MHl3Mr31DYK8p1lsUEVqP\\\
+  \\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\
+  \\\\\"5KmFgc0v96LnHNmUdTs5WJ\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Keep Lying
+  (Demo)\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\
+  \\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/4QFHHdZkeqmneDQqK\
+  IjAN8\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artist\
+  s/4QFHHdZkeqmneDQqKIjAN8\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"4QFHHdZkeqmneDQqK\
+  IjAN8\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Donna
+  Missal\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:4QFHHdZkeqmneDQqKIjAN8\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"6jCuYSwolhXm9umvZvv6ko\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Keep Lying
+  (Demo)\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:6jCuYSwolhXm9umvZvv6\
+  ko\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"3SvhxjlhwjIc8KkZcBNd0y\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Harmony\
+  \\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"sp\
+  otify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j\\\
+  \\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/3jmxk\
+  I8Jhv8bHOd2qSiU9j\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"3jmxkI8Jhv8bHOd2qSiU9j\\\
+  \\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Serena
+  Ryder\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:3jmxkI8Jhv8bHOd2qSiU9j\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"4kGcW4Tn87Lm9s6pp5a5vM\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Stompa\\\\\\\
+  \",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:4kGcW4Tn87Lm9s6pp5a5vM\\\\\\\"}}\
+  ,{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"4V\
+  raGySnzNoZkCQZPzsSjz\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Long Live
+  Love\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pz\
+  OPL\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  2d3VHzlOEwXvmBdS4pzOPL\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"2d3VHzlOEwXvmBdS4pz\
+  OPL\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"LeAnn
+  Rimes\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:2d3VHzlOEwXvmBdS4pzOPL\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"6xk5M2rqniQKrUwUAT6Ymd\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Long Live
+  Love\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:6xk5M2rqniQKrUwUAT6Ymd\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"4QodEuQxjtrNR9htVuaUYr\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Selah
+  Sue\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5\
+  lHu\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  5Oc4knEQaid8K7AFqO5lHu\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"5Oc4knEQaid8K7AFqO5\
+  lHu\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Selah
+  Sue\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\
+  \\\\\"spotify:artist:5Oc4knEQaid8K7AFqO5lHu\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\
+  \\\"3ttKMMwWGBcp08UWhtdqd7\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"This
+  World\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:3ttKMMwWGBcp08UWhtdqd7\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"0z2DezogxUvoCHs8vSHAN0\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Mad -
+  Single\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\
+  \\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/7hLUUmcH0567GWqnQ\
+  Ly75X\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artist\
+  s/7hLUUmcH0567GWqnQLy75X\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"7hLUUmcH0567GWqnQ\
+  Ly75X\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Cassie
+  Steele\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:7hLUUmcH0567GWqnQLy75X\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"0N62iOhivEZzLgWaxEQD15\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Mad\\\\\\\
+  \",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:0N62iOhivEZzLgWaxEQD15\\\\\\\"}}\
+  ,{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"0q\
+  DA2QB6jgY0WpB8Zbxpuk\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Hurricane\\\\\\\"},\
+  \\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\
+  \":\\\\\\\"https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1\\\\\\\"},\\\
+  \\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/6y6iXD929Jqq0xc\
+  6lgwhl1\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"6y6iXD929Jqq0xc6lgwhl1\\\\\\\",\\\\\
+  \\\"name\\\\\\\":\\\\\\\"LAUREL\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\
+  \\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:6y6iXD929Jqq0xc6lgwhl1\\\\\\\
+  \"}],\\\\\\\"id\\\\\\\":\\\\\\\"6qtQB8jBSRBOqJdvK4OdB7\\\\\\\",\\\\\\\"name\\\
+  \\\\\":\\\\\\\"Hurricane\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:6q\
+  tQB8jBSRBOqJdvK4OdB7\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\
+  \\\\\\\"id\\\\\\\":\\\\\\\"0x0oQar199TJE0AFSpYBbN\\\\\\\",\\\\\\\"name\\\\\\\
+  \":\\\\\\\"The
+  Sting\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQRO\
+  dKE\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  5v2GEv1pQaCp6oeOQROdKE\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"5v2GEv1pQaCp6oeOQRO\
+  dKE\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Gabriella
+  Cilmi\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:5v2GEv1pQaCp6oeOQROdKE\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"1IY75FIyPiGewmfc2AbPGa\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Left With
+  Someone
+  Else\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:1IY75FIyPiGewmfc2AbPGa\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"1kt3stnMLRtamPSkZDCPip\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Moonrise\\\
+  \\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spot\
+  ify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/3Lzf1IWlT9sawIHyxBj89V\\\\\
+  \\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/3Lzf1IW\
+  lT9sawIHyxBj89V\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"3Lzf1IWlT9sawIHyxBj89V\\\\\
+  \\\",\\\\\\\"name\\\\\\\":\\\\\\\"WILDWOOD\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\
+  \"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:3Lzf1IWlT9sawIHyx\
+  Bj89V\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"7hv1TLfw7VGN6ssH37lKJ8\\\\\\\",\\\\\
+  \\\"name\\\\\\\":\\\\\\\"Moonrise\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify\
+  :track:7hv1TLfw7VGN6ssH37lKJ8\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\
+  \\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"6XT1DBUeegngZSSIyErAzm\\\\\\\",\\\\\\\"n\
+  ame\\\\\\\":\\\\\\\"Monsters\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"exter\
+  nal_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/ar\
+  tist/0C6qzW0Am8OVyHSoT57fnC\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api\
+  .spotify.com/v1/artists/0C6qzW0Am8OVyHSoT57fnC\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\
+  \\\"0C6qzW0Am8OVyHSoT57fnC\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Thelma
+  Plum\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:0C6qzW0Am8OVyHSoT57fnC\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"4N68T3KMkvtVIW3F7zsyRQ\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"How Much
+  Does Your Love
+  Cost?\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:4N68T3KMkvtVIW3F7zsyRQ\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"0rajxwGsaQ1sqoegXK6gvw\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"hate u
+  love
+  u\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"s\
+  potify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp\
+  \\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/1QR\
+  j3hoop9Mv5VvHQkwPEp\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"1QRj3hoop9Mv5VvHQkwPEp\
+  \\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Olivia
+  O'Brien\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:1QRj3hoop9Mv5VvHQkwPEp\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"6ATgDc6e4sPn84hvJsAmPt\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"hate u
+  love
+  u\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:6ATgDc6e4sPn84hvJsAmPt\\\\\
+  \\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\
+  \\\"6scmRYUU6LRpbFEAW9LTBk\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"EP1\\\\\\\"},\
+  \\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\
+  \":\\\\\\\"https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU\\\\\\\"},\\\
+  \\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/0N8tTwUhQQD75uL\
+  OyqhfVU\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"0N8tTwUhQQD75uLOyqhfVU\\\\\\\",\\\\\
+  \\\"name\\\\\\\":\\\\\\\"Bryde\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\
+  \\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:0N8tTwUhQQD75uLOyqhfVU\\\\\\\
+  \"}],\\\\\\\"id\\\\\\\":\\\\\\\"2fOwXPlNGoaYLaZJTkkNS1\\\\\\\",\\\\\\\"name\\\
+  \\\\\":\\\\\\\"Help
+  Yourself\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:2fOwXPlNGoaYLaZJTk\
+  kNS1\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"3Bfuqp7jMJ6lxrh5ZfVS3I\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Serious
+  Love\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEv\
+  x5n\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  6xYBLeSMu1AqPsnUzEvx5n\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"6xYBLeSMu1AqPsnUzEv\
+  x5n\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Anya
+  Marina\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:6xYBLeSMu1AqPsnUzEvx5n\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"5QPXi2dKDMQIpgDHxHODFt\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Serious
+  Love\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:5QPXi2dKDMQIpgDHxHODFt\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"7ux9KGTe3OdANfMcMNaK1H\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Help Me
+  Mama\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkF\
+  fPi\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  7aJSIsbI5wV8aFi2kkFfPi\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"7aJSIsbI5wV8aFi2kkF\
+  fPi\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"ZZ
+  Ward\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:7aJSIsbI5wV8aFi2kkFfPi\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"59nCx5xYYfnAu0w4REbu3F\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Help Me
+  Mama\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:59nCx5xYYfnAu0w4REbu3F\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"7kRFlRMd0FuD5XSOaS0DKr\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Dead in
+  the
+  Water\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/76UfJrb52tTTiDQNWEe\
+  CBY\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  76UfJrb52tTTiDQNWEeCBY\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"76UfJrb52tTTiDQNWEe\
+  CBY\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"SPELLES\\\\\\\",\\\\\\\"type\\\\\\\":\
+  \\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:76UfJrb52tT\
+  TiDQNWEeCBY\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"0dDm8eyEEkDhQgUMcCR34Q\\\\\\\
+  \",\\\\\\\"name\\\\\\\":\\\\\\\"Dead in the
+  Water\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:0dDm8eyEEkDhQgUMcCR34Q\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"065BnKoZkzhiahzi45qNl0\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Ego\\\\\\\
+  \"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\\\
+  \\\\\":\\\\\\\"https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7\\\\\\\"\
+  },\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/3jDtqAKltRx\
+  Ji64svLZGj7\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"3jDtqAKltRxJi64svLZGj7\\\\\\\",\
+  \\\\\\\"name\\\\\\\":\\\\\\\"Bibi
+  Bourelly\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:3jDtqAKltRxJi64svLZGj7\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"4yMWZeVCciaczYIHAhTvfo\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Ego\\\\\\\
+  \",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:4yMWZeVCciaczYIHAhTvfo\\\\\\\"}}\
+  ,{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"4T\
+  f1G48GkhM010891HC3Nh\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Weightless
+  EP\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"\
+  spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/04BsVprJtIhl2C4fgPEz4W\
+  \\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/04B\
+  sVprJtIhl2C4fgPEz4W\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"04BsVprJtIhl2C4fgPEz4W\
+  \\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Layla\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\
+  \\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:04BsVprJtIhl2C4\
+  fgPEz4W\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"1hq9sGpM9cobP8K2jikFPX\\\\\\\",\\\
+  \\\\\"name\\\\\\\":\\\\\\\"Weightless\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spo\
+  tify:track:1hq9sGpM9cobP8K2jikFPX\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"a\
+  lbum\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"2hIk2gdlhqFNgkRj6SGmFG\\\\\\\",\\\\\\\
+  \"name\\\\\\\":\\\\\\\"By The
+  Horns\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJ\
+  drc\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  4gZRt9wlRx1IsxT9glJdrc\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"4gZRt9wlRx1IsxT9glJ\
+  drc\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Julia
+  Stone\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:4gZRt9wlRx1IsxT9glJdrc\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"7FjA1ngiMjWOMUnFSZEKjp\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"It's All
+  Okay\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:7FjA1ngiMjWOMUnFSZEKjp\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"2v2lEtkoDY12AKBvQGK54E\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Laura
+  Welsh\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5\
+  NDe\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  2QGdI8fUEuoVPJ4xuC5NDe\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"2QGdI8fUEuoVPJ4xuC5\
+  NDe\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Laura
+  Welsh\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:2QGdI8fUEuoVPJ4xuC5NDe\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"6BIytyJtKn2dCTfD2XGFeH\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Break The
+  Fall\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:6BIytyJtKn2dCTfD2XGFeH\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"3nek6vJwO2ebNHEl74pRnc\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Hands On
+  You\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/37BiX28I6pF104F92U1\
+  hDP\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  37BiX28I6pF104F92U1hDP\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"37BiX28I6pF104F92U1\
+  hDP\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Ashley
+  Monroe\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:37BiX28I6pF104F92U1hDP\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"4PVHRRVWJqmEViwuPPWnKq\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Hands On
+  You\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:4PVHRRVWJqmEViwuPPWnKq\\\
+  \\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\
+  \\\\\"2SWr8jnU7sEVhslfL78x25\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Got Your
+  Number\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\
+  \\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2q\
+  SiU9j\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artist\
+  s/3jmxkI8Jhv8bHOd2qSiU9j\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"3jmxkI8Jhv8bHOd2q\
+  SiU9j\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Serena
+  Ryder\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:3jmxkI8Jhv8bHOd2qSiU9j\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"1KWBzQPS07tyitA4o8V7XW\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Got Your
+  Number\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:1KWBzQPS07tyitA4o8V7\
+  XW\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"0sbDeWkNnMBLLNVSud5f26\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Pain of
+  Love\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6\
+  vZh\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  1JIc2FMsvtccdSllBI6vZh\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"1JIc2FMsvtccdSllBI6\
+  vZh\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Whissell\\\\\\\",\\\\\\\"type\\\\\\\
+  \":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:1JIc2FMs\
+  vtccdSllBI6vZh\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"2QfXznx4Ex4btAsxNXYahZ\\\\\
+  \\\",\\\\\\\"name\\\\\\\":\\\\\\\"Pain of
+  Love\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:2QfXznx4Ex4btAsxNXYahZ\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"3dCgW0uvnJ77jiFSZLpzTy\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Speak A
+  Little
+  Louder\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\
+  \\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/5m2sKBa2fJAm4P2MW\
+  fopum\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artist\
+  s/5m2sKBa2fJAm4P2MWfopum\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"5m2sKBa2fJAm4P2MW\
+  fopum\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Diane
+  Birch\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:5m2sKBa2fJAm4P2MWfopum\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"2oVGPRGihMZRFWnpMBh8PY\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Love And
+  War\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:2oVGPRGihMZRFWnpMBh8PY\\\
+  \\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\
+  \\\\\"45Xe0no63GgdzoY5YCKa0q\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Jennifer
+  Hall
+  EP\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"\
+  spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/34Qb1quEh1UWKCas4e1HOo\
+  \\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/34Q\
+  b1quEh1UWKCas4e1HOo\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"34Qb1quEh1UWKCas4e1HOo\
+  \\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Jennifer
+  Hall\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:34Qb1quEh1UWKCas4e1HOo\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"68oKPkgQVVzTz52yqiX09K\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Make It out
+  Alive\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:68oKPkgQVVzTz52yqiX09K\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"1Q4b0inFzXAsg9rTS4hDih\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Don't Let
+  Our Love Go
+  Cold\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiP\
+  nJ3\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  5sWFdgVLTZt5jVHJfiPnJ3\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"5sWFdgVLTZt5jVHJfiP\
+  nJ3\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Red
+  Rosamond\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:5sWFdgVLTZt5jVHJfiPnJ3\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"1SuW6XhW5LpaynRzivaFnK\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Don't Let
+  Our Love Go
+  Cold\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:1SuW6XhW5LpaynRzivaFnK\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"1I1Ahe6u0yNUj0OCfgrsGr\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Listen
+  Up\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"\
+  spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO\
+  \\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/4ab\
+  2tQaaTr2TnairelOwvO\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"4ab2tQaaTr2TnairelOwvO\
+  \\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Nicole
+  Atkins\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:4ab2tQaaTr2TnairelOwvO\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"0g4v8zDxXSCwXZvae6dfQg\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Listen
+  Up\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:0g4v8zDxXSCwXZvae6dfQg\\\
+  \\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\
+  \\\\\"7eZO3WCzvtYIbXI0ZkefzS\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Skyfall\\\\\
+  \\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\
+  \\\\\\\":\\\\\\\"https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY\\\\\\\
+  \"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/4dpARuHxo\
+  51G3z768sgnrY\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"4dpARuHxo51G3z768sgnrY\\\\\\\
+  \",\\\\\\\"name\\\\\\\":\\\\\\\"Adele\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"ar\
+  tist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:4dpARuHxo51G3z768sgnrY\
+  \\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"3mr584ZFSkZrWja9kJAzlb\\\\\\\",\\\\\\\"\
+  name\\\\\\\":\\\\\\\"Skyfall\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:trac\
+  k:3mr584ZFSkZrWja9kJAzlb\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\
+  \":{\\\\\\\"id\\\\\\\":\\\\\\\"5EpDqd9mu5owCOCA5tcXiO\\\\\\\",\\\\\\\"name\\\\\
+  \\\":\\\\\\\"Gotta Love
+  It\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"\
+  spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx\
+  \\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/5tI\
+  kXJTex4JY7cv9mmgAZx\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"5tIkXJTex4JY7cv9mmgAZx\
+  \\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Ruelle\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\
+  \\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:5tIkXJTex4JY7cv\
+  9mmgAZx\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"0ZSt10VtRXJWXkBmo47oLh\\\\\\\",\\\
+  \\\\\"name\\\\\\\":\\\\\\\"Gotta Love
+  It\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:0ZSt10VtRXJWXkBmo47oLh\\\
+  \\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\
+  \\\\\"7uj5ZZprEHLAHvoQRtYHxA\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Pearl
+  Charles\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\
+  \\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/5PWyKTCk0kzNytmI0\
+  NI2JX\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artist\
+  s/5PWyKTCk0kzNytmI0NI2JX\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"5PWyKTCk0kzNytmI0\
+  NI2JX\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Pearl
+  Charles\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:5PWyKTCk0kzNytmI0NI2JX\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"6W9wsXu0E8m66W4IARQt7T\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"I Run So
+  Far\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:6W9wsXu0E8m66W4IARQt7T\\\
+  \\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\
+  \\\\\"4SUzxP2sBgdjiogiNlbSaw\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Tell That
+  Devil\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEb\
+  Kfc\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  35VpsbV6V2NdfTeNZEbKfc\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"35VpsbV6V2NdfTeNZEb\
+  Kfc\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Jill
+  Andrews\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:35VpsbV6V2NdfTeNZEbKfc\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"4wU4XL8nX0we6MXgmFAmnh\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Tell That
+  Devil\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:4wU4XL8nX0we6MXgmFAmnh\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"6eiWuJTeAfTTlD6jpd766A\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Hollowed
+  out
+  Sea\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7\
+  qnn\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  1YQiMR5M12HJ28hkJz7qnn\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"1YQiMR5M12HJ28hkJz7\
+  qnn\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Ailbhe
+  Reddy\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:1YQiMR5M12HJ28hkJz7qnn\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"4oxBuMPLQxQYVPYOdCOG77\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Distrust\\\\\
+  \\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:4oxBuMPLQxQYVPYOdCOG77\\\\\\\"\
+  }},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"\
+  0igXZxXbAV5a5EkVcQdlxb\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Raise
+  Hell\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP\
+  9Up\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  6IOvhXyk5edbA2DVaeP9Up\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"6IOvhXyk5edbA2DVaeP\
+  9Up\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Dorothy\\\\\\\",\\\\\\\"type\\\\\\\":\
+  \\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:6IOvhXyk5ed\
+  bA2DVaeP9Up\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"02Msss3kY3GSGgeY8oUGMF\\\\\\\
+  \",\\\\\\\"name\\\\\\\":\\\\\\\"Raise
+  Hell\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:02Msss3kY3GSGgeY8oUGMF\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"6freV6eqxuFjSr3E93Oqtz\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Rockferry\
+  \\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"sp\
+  otify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO\\\
+  \\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/37NqX\
+  wtb6nIEqRt4EJSoIO\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"37NqXwtb6nIEqRt4EJSoIO\\\
+  \\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Duffy\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\
+  \"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:37NqXwtb6nIEqRt4E\
+  JSoIO\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"78twQ5XCFJMTE37ZSU0gsj\\\\\\\",\\\\\
+  \\\"name\\\\\\\":\\\\\\\"Mercy\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:tr\
+  ack:78twQ5XCFJMTE37ZSU0gsj\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\
+  \\\":{\\\\\\\"id\\\\\\\":\\\\\\\"1myasjHjqePIWY1zKqbJIg\\\\\\\",\\\\\\\"name\\\
+  \\\\\":\\\\\\\"Don't Mess Me
+  Around\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\
+  \\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/1iL8p9yzijWY1XnqV\
+  gHF5P\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artist\
+  s/1iL8p9yzijWY1XnqVgHF5P\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"1iL8p9yzijWY1XnqV\
+  gHF5P\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Clare
+  Maguire\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:1iL8p9yzijWY1XnqVgHF5P\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"50un698qm3fscu0qgDtsf8\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Don't Mess
+  Me
+  Around\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:50un698qm3fscu0qgDts\
+  f8\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\
+  \":\\\\\\\"63jJam7EmnpzGwxWY7yHOu\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Habit\\\
+  \\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spot\
+  ify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ\\\\\
+  \\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/5Vj7LAB\
+  Ydzz3ZBt1EhDIoQ\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"5Vj7LABYdzz3ZBt1EhDIoQ\\\\\
+  \\\",\\\\\\\"name\\\\\\\":\\\\\\\"Gabrielle
+  Shonk\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:5Vj7LABYdzz3ZBt1EhDIoQ\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"3gSn8dbsrZ6amHUEV7sHqd\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Habit\\\\\\\
+  \",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:3gSn8dbsrZ6amHUEV7sHqd\\\\\\\"}}\
+  ,{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"1W\
+  9c669YOTvdVNkp2I5uCr\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"I'm
+  Yours\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/2t0wLTcIYFtfsQU0erD\
+  jpZ\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  2t0wLTcIYFtfsQU0erDjpZ\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"2t0wLTcIYFtfsQU0erD\
+  jpZ\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Pixie
+  Geldof\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:2t0wLTcIYFtfsQU0erDjpZ\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"020YsiW7gnBiqTAmEg7eTc\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Woman Go
+  Wild\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:020YsiW7gnBiqTAmEg7eTc\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"3VQvjeHddEgwcWWlPpYUIe\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Get
+  Free\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6\
+  vZh\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  1JIc2FMsvtccdSllBI6vZh\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"1JIc2FMsvtccdSllBI6\
+  vZh\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Whissell\\\\\\\",\\\\\\\"type\\\\\\\
+  \":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:1JIc2FMs\
+  vtccdSllBI6vZh\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"1gYOBTHkk0Fv6hU8eow6sZ\\\\\
+  \\\",\\\\\\\"name\\\\\\\":\\\\\\\"Get
+  Free\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:1gYOBTHkk0Fv6hU8eow6sZ\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"0QrNnavvkoA9dehE8N3sSQ\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Want\\\\\\\
+  \"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\\\
+  \\\\\":\\\\\\\"https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT\\\\\\\"\
+  },\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/7rjqEDqvREz\
+  fmSP58SLYXT\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"7rjqEDqvREzfmSP58SLYXT\\\\\\\",\
+  \\\\\\\"name\\\\\\\":\\\\\\\"Kelsey
+  Waters\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:7rjqEDqvREzfmSP58SLYXT\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"7BVRDaghQHyDqtRdjdMTsu\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Want\\\\\\\
+  \",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:7BVRDaghQHyDqtRdjdMTsu\\\\\\\"}}\
+  ,{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"6o\
+  BHXA6yIvEvV33r7fPKvZ\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Gladys\\\\\\\"},\\\\\
+  \\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\
+  \\\\\\\"https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ\\\\\\\"},\\\\\\\
+  \"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/2Z8ZYYqedbWaOlSsBRV\
+  lmQ\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"2Z8ZYYqedbWaOlSsBRVlmQ\\\\\\\",\\\\\\\
+  \"name\\\\\\\":\\\\\\\"Leslie
+  Clio\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\
+  \\\\\\\"spotify:artist:2Z8ZYYqedbWaOlSsBRVlmQ\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\
+  \\\\\"1HBOu6e2svuIHLfCoQ8SVc\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"I Couldn't
+  Care
+  Less\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:1HBOu6e2svuIHLfCoQ8SVc\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"5xMTuB3DGTSrFU20Gf03c2\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Beats &
+  Bruises\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\
+  \\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/04HqRx07Bv9gh7rsr\
+  MTqs7\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artist\
+  s/04HqRx07Bv9gh7rsrMTqs7\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"04HqRx07Bv9gh7rsr\
+  MTqs7\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Miss
+  Li\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\
+  \\\\\"spotify:artist:04HqRx07Bv9gh7rsrMTqs7\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\
+  \\\"5a2EGAqH75bGmzDe5Z7m1U\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"I Can't Get
+  You Off My
+  Mind\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:5a2EGAqH75bGmzDe5Z7m1U\
+  \\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\
+  \\\\\\\"7fdqyoeiyeB8N55YVWsUBQ\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Plastic\\\
+  \\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\"spot\
+  ify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/3pTb88yNTcIsydqTaUE0fE\\\\\
+  \\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/3pTb88y\
+  NTcIsydqTaUE0fE\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"3pTb88yNTcIsydqTaUE0fE\\\\\
+  \\\",\\\\\\\"name\\\\\\\":\\\\\\\"Áine\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"a\
+  rtist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:3pTb88yNTcIsydqTaUE0\
+  fE\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"6lyjY05tO3zM1neukRGQ4K\\\\\\\",\\\\\\\
+  \"name\\\\\\\":\\\\\\\"Plastic\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:tr\
+  ack:6lyjY05tO3zM1neukRGQ4K\\\\\\\"}}],\\\\\\\"0YiC99VOQLj1vY3fcioH0W\\\\\\\":\
+  [{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"7y\
+  kiOoPC4GLrVYSDVdDGq2\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Lonely
+  Grill\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\\\\\\\
+  \"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8Qw\
+  ZJK\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/artists/\
+  3qbnxnvUqR14MJ9g8QwZJK\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"3qbnxnvUqR14MJ9g8Qw\
+  ZJK\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Lonestar\\\\\\\",\\\\\\\"type\\\\\\\
+  \":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:3qbnxnvU\
+  qR14MJ9g8QwZJK\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"6qc34bnVOyqGDPni8H5W0U\\\\\
+  \\\",\\\\\\\"name\\\\\\\":\\\\\\\"Amazed\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"\
+  spotify:track:6qc34bnVOyqGDPni8H5W0U\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\
+  \"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"5FMWfLLAF01vsydGY8LvH5\\\\\\\",\\\
+  \\\\\"name\\\\\\\":\\\\\\\"You Say Run (Orchestral
+  Arrangement)\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\"\
+  :{\\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/13U2SPs2asO\
+  lUuMsPEmkxg\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/\
+  artists/13U2SPs2asOlUuMsPEmkxg\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"13U2SPs2asO\
+  lUuMsPEmkxg\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Cloudjumper\\\\\\\",\\\\\\\"\
+  type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artis\
+  t:13U2SPs2asOlUuMsPEmkxg\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"6vE62iba6LY5sbo\
+  gcKvLTa\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"You Say Run (Orchestral
+  Arrangement)\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:6vE62iba6LY5sb\
+  ogcKvLTa\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\
+  \\\\\":\\\\\\\"173zS6O8pRYiAU3UJUzg2S\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"TV\
+  アニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"ext\
+  ernal_urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/\
+  artist/3oGVQWQy7lgTMuTnKUZZNZ\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://a\
+  pi.spotify.com/v1/artists/3oGVQWQy7lgTMuTnKUZZNZ\\\\\\\",\\\\\\\"id\\\\\\\":\\\
+  \\\\\"3oGVQWQy7lgTMuTnKUZZNZ\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Yuki
+  Hayashi\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:3oGVQWQy7lgTMuTnKUZZNZ\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"0hHc2igYYlSUyZdByauJmB\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"You Say
+  Run\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:0hHc2igYYlSUyZdByauJmB\\\
+  \\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\\\":\\\
+  \\\\\"5dQ8bWBsJ7nk6UR5Vw0N2w\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"In
+  Betweenin'\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external_urls\\\\\\\":{\
+  \\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artist/6deoGjNPov9XZ\
+  SS8A2PCST\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.spotify.com/v1/ar\
+  tists/6deoGjNPov9XZSS8A2PCST\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\"6deoGjNPov9XZ\
+  SS8A2PCST\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"AUSTN\\\\\\\",\\\\\\\"type\\\\\
+  \\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:artist:6deoGj\
+  NPov9XZSS8A2PCST\\\\\\\"}],\\\\\\\"id\\\\\\\":\\\\\\\"1UotQ5kMAEiCJVisAVkxOh\\\
+  \\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"In
+  Betweenin'\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:1UotQ5kMAEiCJVis\
+  AVkxOh\\\\\\\"}},{\\\\\\\"track\\\\\\\":{\\\\\\\"album\\\\\\\":{\\\\\\\"id\\\\\
+  \\\":\\\\\\\"15qSa1T6OKegsLuFcvh7nW\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"TVアニ\
+  メ「風が強く吹いている」オリジナルサウンドトラック\\\\\\\"},\\\\\\\"artists\\\\\\\":[{\\\\\\\"external\
+  _urls\\\\\\\":{\\\\\\\"spotify\\\\\\\":\\\\\\\"https://open.spotify.com/artis\
+  t/3oGVQWQy7lgTMuTnKUZZNZ\\\\\\\"},\\\\\\\"href\\\\\\\":\\\\\\\"https://api.sp\
+  otify.com/v1/artists/3oGVQWQy7lgTMuTnKUZZNZ\\\\\\\",\\\\\\\"id\\\\\\\":\\\\\\\
+  \"3oGVQWQy7lgTMuTnKUZZNZ\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Yuki
+  Hayashi\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"artist\\\\\\\",\\\\\\\"uri\\\\\\\
+  \":\\\\\\\"spotify:artist:3oGVQWQy7lgTMuTnKUZZNZ\\\\\\\"}],\\\\\\\"id\\\\\\\":\
+  \\\\\\\"04a6Tuzc3LHgM0I0IVh0aw\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"We Must
+  Go\\\\\\\",\\\\\\\"uri\\\\\\\":\\\\\\\"spotify:track:04a6Tuzc3LHgM0I0IVh0aw\\\
+  \\\\\"}}]}\\\",\\\"selectedTrack\\\":\\\"null\\\",\\\"_persist\\\":\\\"{\\\\\\\
+  \"version\\\\\\\":-1,\\\\\\\"rehydrated\\\\\\\":true}\\\"}\"}"
+workbench.grid.height: "979"
+GitHub.remotehub: '{"version":"0.18.0","b36ea50f47828c8afcde60354dee19fa/metadata/vscode-vfs://github/web2033/vite-vue3-tailwind-starter":"{\"schemaVersion\":1,\"revision\":\"HEAD\"}","ac9d0728b708811d75792ab3e4d72b06/metadata/vscode-vfs://github/web2033/vite-vue3-tailwind-starter":"{\"schemaVersion\":1,\"revision\":\"6b4bc61bdcde69a3fa799b7259345ac10488519c\"}","workspaceRepositories":"{\"schemaVersion\":1,\"workspaceRepositories\":[[\"ac9d0728b708811d75792ab3e4d72b06/vscode-vfs://github/web2033/vite-vue3-tailwind-starter\",{\"workspaceId\":\"ac9d0728b708811d75792ab3e4d72b06\",\"uri\":{\"$mid\":1,\"fsPath\":\"/web2033/vite-vue3-tailwind-starter\",\"external\":\"vscode-vfs://github/web2033/vite-vue3-tailwind-starter\",\"path\":\"/web2033/vite-vue3-tailwind-starter\",\"scheme\":\"vscode-vfs\",\"authority\":\"github\"},\"canonicalUri\":{\"$mid\":1,\"path\":\"/web2033/vite-vue3-tailwind-starter\",\"scheme\":\"vscode-vfs\",\"authority\":\"github\"},\"name\":\"web2033/vite-vue3-tailwind-starter\",\"provider\":{\"id\":\"github\",\"name\":\"GitHub\"},\"ref\":{\"type\":0,\"name\":\"main\"},\"timestamp\":1629706114933}]]}"}'
+workbench.panel.size: "308"
+workbench.statusbar.hidden: '["status.workspaceTrust.f1987c5bf5f0a0dc447054954f3b3d4c","status.workspaceTrust.1623692602115","status.workspaceTrust.49b0f2853f14749caa7b02a8b0a9bbde","status.workspaceTrust.b36ea50f47828c8afcde60354dee19fa","status.workspaceTrust.1627551348960","status.workspaceTrust.1628314836838","status.workspaceTrust.1628702052434","status.workspaceTrust.6b75fe0141070466853cc7713c9c7526","status.workspaceTrust.1629384816628","status.workspaceTrust.ac9d0728b708811d75792ab3e4d72b06","status.workspaceTrust.0cc43e06d3e9bd96c5de2f8cafdb85c6","status.workspaceTrust.1630038804010","status.workspaceTrust.37bea68452d32db7020cdcadf7cfdca1","status.workspaceTrust.1630059651663","status.workspaceTrust.2d5fd91d9dc06d0add1b23fc7523a886","status.workspaceTrust.9a0bfd72ba22344bd86e4fe300481bcf","status.workspaceTrust.1630327444143","status.workspaceTrust.2de8fedd158118475e937e7caa9d7e10","status.workspaceTrust.1630641652260","status.workspaceTrust.d9df0db0f5d7a09663f25ad75c69f258","status.workspaceTrust.974cd6350eedccb2aafbec7ab3780a10","status.workspaceTrust.1630652453526","status.workspaceTrust.1630654673836","status.workspaceTrust.1630992396779","status.workspaceTrust.1631766151004","status.workspaceTrust.b50c88901530ecdf599b0c7fb75d039c","status.workspaceTrust.1632103851242","status.workspaceTrust.1632124660664","status.workspaceTrust.1632201759503","status.workspaceTrust.1633059156214","status.workspaceTrust.f8bdc5c6a66a4890ccae440fcf3a9c9c","status.workspaceTrust.5aa28cd5c55431f010343a0499dc5bdc","status.workspaceTrust.1633173001176","status.workspaceTrust.1633434011904","status.workspaceTrust.1633770120241","status.workspaceTrust.2326d240c1f15d41973db128273f8fa7","status.workspaceTrust.0b45a1782d7cab9960af1a8431ee2bd6","status.workspaceTrust.1634100010765","status.workspaceTrust.341518805f5cd62a76eeec29e98e1be3","status.workspaceTrust.1634189456452","status.workspaceTrust.230608cd8917e1f9d8b1886ffbf90418","status.workspaceTrust.1634445192927","status.workspaceTrust.1634728036583","status.workspaceTrust.1635273414500","status.workspaceTrust.8e184d04fb8c091ff8b51ae9de80fff2","status.workspaceTrust.1635335593191","status.workspaceTrust.758c763af846c768446df8d72948e604","status.workspaceTrust.1635388744032","status.workspaceTrust.1635389175190","status.workspaceTrust.af09088b5ef3c51f7e11d49f53df6c2b","status.workspaceTrust.1635389549824","status.workspaceTrust.1635389552298","status.workspaceTrust.185a3de7a7af426c31df24eaeff45e9e","status.workspaceTrust.1635405648035","status.workspaceTrust.1636436995432","status.workspaceTrust.6801e064eb44f31ef9d0e61b2d98eaf5","status.workspaceTrust.1636719198730","status.workspaceTrust.1636839397731","status.workspaceTrust.1636880472201","status.workspaceTrust.1636991206049","status.workspaceTrust.0c83d4de1cd37b502bc98de6481ce37a","status.workspaceTrust.75f1670b435d3a3828dfcaed623db577","status.workspaceTrust.1637035661520","status.workspaceTrust.1637036613456","status.workspaceTrust.aa110716e00b80c3049dd0d1d88ed44c","status.workspaceTrust.2cb7d7149787e2cf267d53bce1fbb1a3"]'
+workbench.grid.width: "1920"
+monokai.theme-monokai-pro-vscode: '{"firstTimeStamp":1566753768,"lastTimeStamp":1637206635}'
+workbench.panel.pinnedPanels: '[{"id":"terminal","name":"Terminal","pinned":true,"order":3,"visible":true},{"id":"workbench.view.search","name":"Search","pinned":true,"order":10,"visible":false},{"id":"workbench.panel.markers","name":"Problems","pinned":true,"order":0,"visible":true},{"id":"workbench.panel.output","name":"Output","pinned":true,"order":1,"visible":true},{"id":"workbench.panel.repl","name":"Debug
+  Console","pinned":true,"order":2,"visible":true},{"id":"refactorPreview","name":"Refactor
+  Preview","pinned":true,"visible":false}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.browser-preview","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.project-manager","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.bookmarks","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.wallaby","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.sass","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.vscode-spotify","pinned":true,"visible":true,"order":9},{"id":"workbench.view.sync","pinned":true,"visible":false}]'
+workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
+  \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
+  in\":true,\"views\":[{\"when\":\"openEditorsVisible\"},{},{},{\"when\":\"time\
+  lineHasProvider\"},{\"when\":\"npm:showScriptExplorer\"},{},{\"when\":\"git.c\
+  ommit.selected && git.commit.view.show &&
+  !config.gitHistory.hideCommitViewExplorer\"},{\"when\":\"git.commit.compare.c\
+  ompared && git.commit.compare.view.show &&
+  !config.gitHistory.hideCompareCommitViewExplorer\"},{\"when\":\"showSidebar\"\
+  },{}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"id\":\"search-view-\
+  icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"work\
+  bench.view.scm\",\"themeIcon\":{\"id\":\"source-control-view-icon\"},\"name\":\
+  \"Source Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount
+  && scm.providerCount !=
+  '0'\"},{}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view\
+  -icon\"},\"name\":\"Run and
+  Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
+  'default'\"},{\"when\":\"breakpointsExist || debugUx ==
+  'default'\"},{\"when\":\"debugConfigurationType ==
+  'pwa-chrome'\"}]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"r\
+  emote-explorer-view-icon\"},\"name\":\"Remote
+  Explorer\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"workbench.view.extens\
+  ions\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\"name\":\"Extensions\
+  \",\"isBuiltin\":true,\"views\":[{\"when\":\"defaultExtensionViews &&
+  !hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"recommendedExtensions && workbenchState
+  != 'empty'\"},{\"when\":\"defaultExtensionViews &&
+  !hasInstalledExtensions\"},{\"when\":\"recommendedExtensions\"},{\"when\":\"d\
+  efaultExtensionViews &&
+  !config.extensions.showRecommendationsOnlyOnDemand\"},{\"when\":\"defaultExte\
+  nsionViews && hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\
+  \":\"searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"w\
+  hen\":\"searchDisabledExtensions\"},{\"when\":\"searchOutdatedExtensions\"},{\
+  \"when\":\"searchBuiltInExtensions\"},{\"when\":\"searchWorkspaceUnsupportedE\
+  xtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"\
+  },{\"when\":\"builtInExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExte\
+  nsions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"sea\
+  rchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"}]},{\"id\":\"workbench.view.extension.test\",\"themeIcon\"\
+  :{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":true,\"views\
+  \":[{\"when\":\"testing.providerCount >
+  0\"}]},{\"id\":\"workbench.view.extension.references-view\",\"themeIcon\":{\"\
+  id\":\"references\"},\"name\":\"References\",\"isBuiltin\":false,\"views\":[{\
+  \"when\":\"reference-list.isActive\"}]},{\"id\":\"workbench.view.extension.ju\
+  pyter\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.browser-previ\
+  ew\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.dockerView\",\"i\
+  sBuiltin\":false},{\"id\":\"workbench.view.extension.project-manager\",\"isBu\
+  iltin\":false},{\"id\":\"workbench.view.extension.bookmarks\",\"iconUrl\":{\"\
+  $mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/alefragnani.bookmarks-13.2.2/imag\
+  es/bookmark-activity-bar.svg\",\"scheme\":\"file\"},\"name\":\"Bookmarks\",\"\
+  isBuiltin\":false,\"views\":[{},{}]},{\"id\":\"workbench.view.extension.cspel\
+  l-explorer\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.wallaby\
+  \",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.sass\",\"isBuiltin\
+  \":false},{\"id\":\"workbench.view.extension.gitlens\",\"isBuiltin\":false},{\
+  \"id\":\"workbench.view.extension.vscode-spotify\",\"iconUrl\":{\"$mid\":1,\"\
+  path\":\"%%EXTENSION_DATA_PATH%%/shyykoserhiy.vscode-spotify-3.2.1/resources/\
+  dark/logo.svg\",\"scheme\":\"file\"},\"name\":\"vscode-spotify\",\"isBuiltin\
+  \":false,\"views\":[{},{}]},{\"id\":\"workbench.view.sync\",\"themeIcon\":{\"\
+  id\":\"settings-sync-view-icon\"},\"name\":\"Settings
+  Sync\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncMergesView\"},{\"w\
+  hen\":\"enableSyncActivityViews && userDataSyncAccountStatus == 'available' &&
+  syncStatus != 'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews\"}]}]"

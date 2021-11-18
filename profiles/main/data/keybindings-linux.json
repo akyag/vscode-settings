@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+b ctrl+s",
+        "command": "HookyQR.beautify"
+    },
+    {
+        "key": "ctrl+b ctrl+f",
+        "command": "HookyQR.beautifyFile"
+    }
+]
