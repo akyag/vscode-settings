@@ -1,0 +1,111 @@
+{
+    "python.formatting.provider": "black",
+    "codesnap.transparentBackground": true,
+    "terminal.external.linuxExec": "kitty",
+    "files.autoSave": "onFocusChange",
+    "files.autoSaveDelay": 10000,
+    "editor.fontFamily": "'FiraCode Nerd Font Mono', 'monospace', monospace, FontAwesome, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "python.defaultInterpreterPath": "/usr/bin/python",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "workbench.editor.pinnedTabSizing": "shrink",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "extensions.ignoreRecommendations": false,
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "search.searchOnType": false,
+    "editor.linkedEditing": true,
+    "editor.wordWrap": "on",
+    "window.restoreWindows": "preserve",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.languageServer": "Pylance",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.fontSize": 16,
+    "markdown.preview.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "editor.renderWhitespace": "all",
+    "zenMode.fullScreen": false,
+    "zenMode.hideActivityBar": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideStatusBar": false,
+    "zenMode.hideTabs": false,
+    "zenMode.silentNotifications": false,
+    "emmet.includeLanguages": {
+        "vue-html": "html"
+    },
+    "editor.quickSuggestionsDelay": 0,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "editor.guides.bracketPairs": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.printWidth": 1400,
+    "livePreview.openPreviewTarget": "External Browser",
+    "git.enableSmartCommit": true,
+    "syncSettings.openOutputOnActivity": true,
+    "window.newWindowDimensions": "maximized",
+    "[astro]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.documentSelectors": [
+        "**/*.astro"
+    ],
+    "files.associations": {
+        "*.nfo": "xml"
+    },
+    "codesnap.showWindowControls": false,
+    "codesnap.showWindowTitle": true,
+    "tailwindCSS.includeLanguages": {
+        "\"Astro\"": "\"html\""
+    },
+    "syncSettings.confirmSync": true,
+    "syncSettings.additionalFiles": [],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "launch": {
+        "configurations": []
+    },
+    "git.autofetch": true,
+    "windicss.sortOnSave": true,
+    "windicss.includeLanguages": {
+        "astro": "html"
+    },
+    "windicss.enableColorDecorators": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
