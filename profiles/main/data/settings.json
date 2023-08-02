@@ -1,13 +1,10 @@
 {
-    "python.formatting.provider": "black",
-    "codesnap.transparentBackground": true,
-    "terminal.external.linuxExec": "kitty",
+    "terminal.external.linuxExec": "konsole",
     "files.autoSave": "onFocusChange",
     "files.autoSaveDelay": 10000,
-    "editor.fontFamily": "'FiraCode Nerd Font Mono', 'monospace', monospace, FontAwesome, 'Droid Sans Fallback'",
+    "editor.fontFamily": "'JetBrainsMono NF', 'monospace', monospace, FontAwesome, 'Droid Sans Fallback'",
     "editor.fontLigatures": true,
-    "python.defaultInterpreterPath": "/usr/bin/python",
-    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontFamily": "JetBrainsMono NF",
     "workbench.editor.pinnedTabSizing": "shrink",
     "[javascript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
@@ -28,10 +25,8 @@
     "window.restoreWindows": "preserve",
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "python.languageServer": "Pylance",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.productIconTheme": "fluent-icons",
-    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "workbench.colorTheme": "ReUI II Dark",
     "security.workspace.trust.untrustedFiles": "open",
     "editor.bracketPairColorization.enabled": true,
     "editor.fontSize": 16,
@@ -72,7 +67,6 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "prettier.printWidth": 1400,
-    "livePreview.openPreviewTarget": "External Browser",
     "git.enableSmartCommit": true,
     "syncSettings.openOutputOnActivity": true,
     "window.newWindowDimensions": "maximized",
@@ -100,12 +94,11 @@
         "configurations": []
     },
     "git.autofetch": true,
-    "windicss.sortOnSave": true,
-    "windicss.includeLanguages": {
-        "astro": "html"
-    },
-    "windicss.enableColorDecorators": false,
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "terminal.integrated.defaultProfile.linux": "fish",
+    "path-autocomplete.disableUpOneFolder": false,
+    "path-autocomplete.enableFolderTrailingSlash": false,
+    "path-autocomplete.pathMappings": {},
 }
